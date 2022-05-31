@@ -23,7 +23,11 @@ def binSearchIter(numList, val):
     return -1 
         
     
-
+#algo for recursive
+def binSearchRec(numList, val):
+    lo = 0 
+    hi = len(numList) -1 
+    
 #Array 
 A = [1, 23, 42, 49, 86, 492, 582]
 
