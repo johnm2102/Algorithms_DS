@@ -34,3 +34,5 @@ A = [1, 23, 42, 49, 86, 492, 582]
 #search 
 print(binSearchIter(A, 582))
 print(binSearchIter(A, 123))
+
+
